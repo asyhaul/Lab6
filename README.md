@@ -1,6 +1,6 @@
 ![2023-05-17 (3)](https://github.com/asyhaul/Lab7Web/assets/116356016/ce769073-fb9c-4ace-87f6-9fde7378791f)
 ![2023-05-17](https://github.com/asyhaul/Lab7Web/assets/116356016/ae0ea997-af63-4cfe-851c-9cb1329204ce)
-![2023-05-17 (5)](https://github.com/asyhaul/Lab7Web/assets/116356016/d767c87e-985a-4dcd-b155-100556e0831d)
+![2023-05-17 (5)](https://github.com/asyhaul/Lab7Web/assets/116356016/c9fed6fc-59bb-4bb2-aa53-d0026ea83268)
 ![2023-05-17 (6)](https://github.com/asyhaul/Lab7Web/assets/116356016/9b85e81b-6c38-42b4-9999-f9a2c9f1607c)
 ![2023-05-17 (7)](https://github.com/asyhaul/Lab7Web/assets/116356016/850124f8-07d0-4a5c-8bea-edaddf05be16)
 ![2023-05-18 (8)](https://github.com/asyhaul/Lab7Web/assets/116356016/0efaf794-83ce-4be3-9456-43a360e32296)
