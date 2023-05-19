@@ -1,54 +1,8 @@
-# CodeIgniter 4 Framework
-
-## What is CodeIgniter?
-
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
-
-This repository holds the distributable version of the framework.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
-
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
-
-The user guide corresponding to the latest version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
-
-## Important Change with index.php
-
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
-
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Contributing
-
-We welcome contributions from the community.
-
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
-
-## Server Requirements
-
-PHP version 7.4 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+![2023-05-17 (3)](https://github.com/asyhaul/Lab7Web/assets/116356016/ce769073-fb9c-4ace-87f6-9fde7378791f)
+![2023-05-17](https://github.com/asyhaul/Lab7Web/assets/116356016/ae0ea997-af63-4cfe-851c-9cb1329204ce)
+![2023-05-17 (5)](https://github.com/asyhaul/Lab7Web/assets/116356016/d767c87e-985a-4dcd-b155-100556e0831d)
+![2023-05-17 (6)](https://github.com/asyhaul/Lab7Web/assets/116356016/9b85e81b-6c38-42b4-9999-f9a2c9f1607c)
+![2023-05-17 (7)](https://github.com/asyhaul/Lab7Web/assets/116356016/850124f8-07d0-4a5c-8bea-edaddf05be16)
+![2023-05-18 (8)](https://github.com/asyhaul/Lab7Web/assets/116356016/0efaf794-83ce-4be3-9456-43a360e32296)
+![2023-05-18 (2)](https://github.com/asyhaul/Lab7Web/assets/116356016/8024de29-41e8-4c95-9e3e-e63ccd76480f)
+![2023-05-18 (3)](https://github.com/asyhaul/Lab7Web/assets/116356016/e9114989-fd52-4527-ab53-a8b07171d007)
